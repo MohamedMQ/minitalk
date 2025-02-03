@@ -1,4 +1,4 @@
-# 42 Project: Minitalk
+# Minitalk
 ---
 ## About the project
 
